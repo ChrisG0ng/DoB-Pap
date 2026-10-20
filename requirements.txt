@@ -1,0 +1,9 @@
+torch>=2.0
+timm>=1.0.3
+huggingface_hub>=0.23
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.20
+Pillow>=9.1
+matplotlib>=3.5
+tqdm>=4.60
