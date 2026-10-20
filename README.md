@@ -12,7 +12,7 @@ Two backbones are provided:
   optional shallow CNN detail branch.
 
 Both are trained on synthetic OD / concentration / stain-matrix triplets with a
-reconstruction loss (OD = A·C) and a concentration loss.
+reconstruction loss (OD = A·X) and a concentration loss.
 
 Pre-trained checkpoints are hosted on
 [Anonymous Hugging Face](https://anonymous-hf.com/a/1a5qgm2lb0wl/) and are not part of
